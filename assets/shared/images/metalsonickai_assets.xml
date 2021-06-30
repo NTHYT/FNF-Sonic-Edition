@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="metalsonickai_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="metalsonickai down0000" x="0" y="0" width="1466" height="2036" frameX="-8" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0001" x="0" y="0" width="1466" height="2036" frameX="-8" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0002" x="1466" y="0" width="1497" height="2030" frameX="-1" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0003" x="1466" y="0" width="1497" height="2030" frameX="-1" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0004" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0005" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0006" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0007" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0008" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai down0009" x="2963" y="0" width="1502" height="2023" frameX="0" frameY="-100" frameWidth="1502" frameHeight="2036"/>
+	<SubTexture name="metalsonickai idle0000" x="4465" y="0" width="1418" height="2114" frameX="0" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0001" x="4465" y="0" width="1418" height="2114" frameX="0" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0002" x="5883" y="0" width="1351" height="2126" frameX="-26" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0003" x="5883" y="0" width="1351" height="2126" frameX="-26" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0004" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0005" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0006" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0007" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0008" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai idle0009" x="0" y="2126" width="1328" height="2130" frameX="-35" frameY="-100" frameWidth="1418" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0000" x="1328" y="2126" width="1317" height="2126" frameX="-12" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0001" x="1328" y="2126" width="1317" height="2126" frameX="-12" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0002" x="2645" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0003" x="2645" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0004" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0005" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0006" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0007" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0008" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai left0009" x="3968" y="2126" width="1323" height="2130" frameX="0" frameY="-100" frameWidth="1329" frameHeight="2130"/>
+	<SubTexture name="metalsonickai right0000" x="5291" y="2126" width="1306" height="2082" frameX="0" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0001" x="5291" y="2126" width="1306" height="2082" frameX="0" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0002" x="6597" y="2126" width="1323" height="2107" frameX="-39" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0003" x="6597" y="2126" width="1323" height="2107" frameX="-39" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0004" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0005" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0006" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0007" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0008" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai right0009" x="0" y="4256" width="1323" height="2108" frameX="-37" frameY="-100" frameWidth="1362" frameHeight="2108"/>
+	<SubTexture name="metalsonickai up0000" x="1323" y="4256" width="1274" height="2152" frameX="-22" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0001" x="1323" y="4256" width="1274" height="2152" frameX="-22" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0002" x="2597" y="4256" width="1321" height="2133" frameX="-3" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0003" x="2597" y="4256" width="1321" height="2133" frameX="-3" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0004" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0005" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0006" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0007" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0008" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+	<SubTexture name="metalsonickai up0009" x="3918" y="4256" width="1328" height="2130" frameX="0" frameY="-100" frameWidth="1328" frameHeight="2160"/>
+</TextureAtlas>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="superTransformation.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eyes 01" x="0" y="0" width="77" height="21" frameX="-14" frameY="-6" frameWidth="77" frameHeight="21"/>
+	<SubTexture name="eyes 02" x="99" y="0" width="79" height="29" frameX="-14" frameY="-6" frameWidth="79" frameHeight="29"/>
+	<SubTexture name="eyes 03" x="200" y="0" width="71" height="36" frameX="-14" frameY="-6" frameWidth="71" frameHeight="36"/>
+	<SubTexture name="eyes 04" x="301" y="0" width="304" height="156" frameX="-14" frameY="-6" frameWidth="304" frameHeight="156"/>
+	<SubTexture name="eyes 05" x="642" y="0" width="304" height="163" frameX="-14" frameY="-6" frameWidth="304" frameHeight="163"/>
+	<SubTexture name="aura 01" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 02" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 03" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 04" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 05" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 06" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 07" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 08" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 09" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 010" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 011" x="1007" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+	<SubTexture name="aura 012" x="1361" y="0" width="304" height="225" frameX="-14" frameY="-6" frameWidth="304" frameHeight="225"/>
+</TextureAtlas>

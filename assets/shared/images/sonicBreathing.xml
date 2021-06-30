@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sonicBreathing.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="breathing 01" x="0" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+	<SubTexture name="breathing 02" x="458" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+	<SubTexture name="breathing 03" x="0" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+	<SubTexture name="breathing 04" x="458" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+	<SubTexture name="breathing 05" x="0" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+	<SubTexture name="breathing 06" x="458" y="0" width="369" height="424" frameX="-14" frameY="-6" frameWidth="369" frameHeight="424"/>
+</TextureAtlas>

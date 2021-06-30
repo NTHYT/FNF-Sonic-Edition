@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nth_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nth down0000" x="0" y="0" width="202" height="127" frameX="0" frameY="-26" frameWidth="202" frameHeight="127"/>
+	<SubTexture name="nth down0001" x="202" y="0" width="168" height="124" frameX="0" frameY="-26" frameWidth="168" frameHeight="124"/>
+	<SubTexture name="nth down0002" x="370" y="0" width="101" height="122" frameX="0" frameY="-26" frameWidth="101" frameHeight="122"/>
+	<SubTexture name="nth idle0000" x="471" y="0" width="226" height="279" frameX="0" frameY="-26" frameWidth="226" frameHeight="279"/>
+	<SubTexture name="nth idle0001" x="697" y="0" width="226" height="279" frameX="0" frameY="-26" frameWidth="226" frameHeight="279"/>
+	<SubTexture name="nth idle0002" x="0" y="279" width="226" height="279" frameX="0" frameY="-26" frameWidth="226" frameHeight="279"/>
+	<SubTexture name="nth idle0003" x="226" y="279" width="225" height="280" frameX="0" frameY="-26" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="nth idle0004" x="451" y="279" width="225" height="280" frameX="0" frameY="-26" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="nth left0000" x="676" y="279" width="206" height="268" frameX="0" frameY="-26" frameWidth="206" frameHeight="268"/>
+	<SubTexture name="nth left0001" x="0" y="559" width="206" height="268" frameX="0" frameY="-26" frameWidth="206" frameHeight="268"/>
+	<SubTexture name="nth left0002" x="206" y="559" width="206" height="268" frameX="0" frameY="-26" frameWidth="206" frameHeight="268"/>
+	<SubTexture name="nth right0000" x="681" y="1129" width="177" height="279" frameX="0" frameY="-26" frameWidth="177" frameHeight="279"/>
+	<SubTexture name="nth right0001" x="0" y="1409" width="177" height="279" frameX="0" frameY="-26" frameWidth="177" frameHeight="279"/>
+	<SubTexture name="nth right0002" x="177" y="1409" width="177" height="279" frameX="0" frameY="-26" frameWidth="177" frameHeight="279"/>
+	<SubTexture name="nth up0000" x="354" y="1409" width="201" height="302" frameX="0" frameY="-26" frameWidth="201" frameHeight="302"/>
+	<SubTexture name="nth up0001" x="555" y="1409" width="201" height="302" frameX="0" frameY="-26" frameWidth="201" frameHeight="302"/>
+	<SubTexture name="nth up0002" x="756" y="1409" width="201" height="302" frameX="0" frameY="-26" frameWidth="201" frameHeight="302"/>
+</TextureAtlas>
